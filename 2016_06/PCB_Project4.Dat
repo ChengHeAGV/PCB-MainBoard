@@ -1,0 +1,43 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project4.PrjPCB|ReportField=ProjectFullPath~C:\Users\Administrator\Desktop\各种文件\PCB电路图\AGV_PCB\PCB_Project4.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project4.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~237|ReportField=ReportTime~上午 9:26:35|ReportField=ReportDate~2016/9/18 星期日|ReportField=ReportDateTime~2016/9/18 星期日 上午 9:26:35|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/9/18 星期日|ReportField=CurrentTime~上午 9:26:16|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Administrator\Desktop\各种文件\PCB电路图\AGV_PCB\底板20160428.SchDoc|ReportField=DocumentName~底板20160428.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/5/5 星期四|ReportField=Organization~|ReportField=ProjectName~PCB_Project4.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project4.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Administrator\Desktop\各种文件\PCB电路图\AGV_PCB\PCB_Project4.PrjPCB
+1|0.1uF|0805|1
+2||LED|26
+3||DIDOE|10
+4|CON2|DZ-2-3.5|1
+5|Header 3X2H|HDR2X3|2
+6|MHDR2X20|DIP-2X20|1
+7|MHDR2X19|DIP-2X19|1
+8|输出备用|DZ-5-3.5|1
+9|输入备用|DZ-5-3.5|1
+10|避障2|DZ-4-3.5|1
+11|避障1|DZ-4-3.5|1
+12|喇叭|DZ-2-3.5|1
+13|启动|DZ-2-3.5|1
+14|电位器1|DZ-3-3.5|1
+15|停止|DZ-2-3.5|1
+16|电位器2|DZ-3-3.5|1
+17|急停|DZ-2-3.5|1
+18|三色灯|DZ-4-3.5|1
+19|电机1|DZ-5-3.5|1
+20|通讯IO|DZ-7-3.5|1
+21|电机2|DZ-5-3.5|1
+22|电机3|DZ-5-3.5|1
+23|牵引杆|DZ-5-3.5|1
+24|电机4|DZ-5-3.5|1
+25|磁导航1|HDR2X5|2
+26|磁导航2|HDR2X5|2
+27|磁导航3|HDR2X5|2
+28|磁导航4|HDR2X5|2
+29|触摸屏RS485|DZ-4-3.5|1
+30|应用板通讯|DZ-2-3.5|1
+31|RFID_RS232|DZ-4-3.5|1
+32|Header 2|HDR1X2|1
+33|Header 5X2|HDR2X5|8
+34|PZ|SOP8|8
+35|IRFR1205|TO-252AA|1
+36|1k|0805|48
+37|2k|0805|5
+38|4.7K|0805|48
+39|330R|0805|4
+40|TLP185|TLP127|37
+41|AF4920GW|SO-8|5
+42|HCPL0630|SO-8|2
