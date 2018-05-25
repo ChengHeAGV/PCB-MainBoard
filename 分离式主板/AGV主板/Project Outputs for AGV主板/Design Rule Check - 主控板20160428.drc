@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : D:\github\PCB\PCB-MainBoard\20170811\AGV主板\主控板20160428.PcbDoc
+Date     : 2018/5/25 星期五
+Time     : 上午 9:47:13
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (IsPad),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (IsVia),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Via (10.753mm,-72.619mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (12.446mm,-72.619mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (10.753mm,-73.635mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (12.446mm,-73.635mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (9.906mm,-72.619mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (11.599mm,-72.619mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (9.906mm,-73.635mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (11.599mm,-73.635mm) Top Layer to Bottom Layer and 
+                     Pad U5-0(11.176mm,-73.127mm)  Top Layer
+   Violation between Via (89.967mm,-29.667mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (89.967mm,-27.94mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (89.967mm,-28.804mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (89.129mm,-29.667mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (89.129mm,-27.94mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (90.805mm,-29.667mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (90.805mm,-27.94mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (89.129mm,-28.804mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+   Violation between Via (90.805mm,-28.804mm) Top Layer to Bottom Layer and 
+                     Pad U12-0(89.967mm,-28.804mm)  Top Layer
+Rule Violations :17
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 17
+Time Elapsed        : 00:00:10
